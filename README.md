@@ -1,6 +1,6 @@
 # 📝 CustomerVoice : Customer Feedback Analysis System
 
-My code for Survey Sparrow Hackathon
+- My code for Survey Sparrow Hackathon.
 An AI-powered system that processes customer feedback to extract emotions, identify topics, and compute an overall sentiment score (**Adorescore**). This helps businesses gain insights into customer sentiment and take data-driven actions to improve their services.
 
 ## 🚀 Features
