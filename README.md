@@ -44,12 +44,9 @@ streamlit run app.py
 - Analyze sentiment trends using radar charts.
 
 
-
 ## 🔮 Future Enhancements
 - **Optimize emotion detection** using reinforcement learning.
 - **Enhance topic detection** with contextual embeddings.
 - **Real-time visualization** with dynamic sentiment tracking.
 - **Develop an API** for enterprise integration.
 
-## 🤝 Contributing
-Pull requests are welcome! Open an issue for feature suggestions.
